@@ -1,4 +1,4 @@
-# ABC-Tech-ITSM-AI
+# ABC-Tech-ITSM
 ### AI-Powered IT Service Management Analytics and Incident Priority Prediction
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-blueviolet?style=for-the-badge)](https://abc-tech-itsm.onrender.com)
