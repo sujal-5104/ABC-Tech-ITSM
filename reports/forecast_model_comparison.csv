@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Previous-week baseline,24.77,35.61
+Random Forest,31.61,41.72
+Weekday median,42.83,61.09
