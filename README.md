@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ABC Tech ITSM AI — Intelligent IT Service Management
 
 An end-to-end machine learning project for analyzing IT service management data, forecasting daily incident volumes, and identifying potentially high-priority IT tickets.
@@ -521,3 +522,6 @@ For forecasting, the previous-week baseline achieved the lowest error among the 
 The project demonstrates the importance of chronological evaluation, comparison with simple baselines, feature-leakage checks, and transparent reporting of limitations.
 
 Further validation on separate time periods and more recent data is necessary before these models can be considered for operational use.
+=======
+# ABC-Tech-ITSM
+>>>>>>> origin/main
